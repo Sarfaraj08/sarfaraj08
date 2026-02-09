@@ -27,20 +27,6 @@
 
 ---
 
-### 🌟 Featured Projects
-🔹 **Netflix UI Clone**  
-Modern responsive UI using React  
-👉 https://github.com/sarfaraj08/netflix-clone  
-
-🔹 **YouTube Clone**  
-Video platform UI with routing & layouts  
-👉 https://github.com/sarfaraj08/youtube-clone  
-
-🔹 **Portfolio Website**  
-Personal frontend showcase  
-👉 https://github.com/sarfaraj08/portfolio  
-
----
 
 ### 📊 GitHub Stats
 <p align="center">
