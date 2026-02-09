@@ -46,5 +46,4 @@
 
 ---
 
-⭐ *Crafting interfaces that users love.*
 
